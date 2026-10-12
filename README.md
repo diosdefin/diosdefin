@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:2563EB,70:7C3AED,100:22D3EE&height=230&section=header&text=diosdefin&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CODE.%20CREATE.%20KEEP%20GOING.&descSize=17&descAlignY=61" alt="diosdefin — Code. Create. Keep going." />
 
-# Hey, I'm Bayel 👋
+# Hey, I'm Daniel 👋
 
 **Software Engineering Student · Kyrgyzstan 🇰🇬**
 
